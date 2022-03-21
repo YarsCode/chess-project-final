@@ -1,0 +1,12 @@
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/bin/Debug/netcoreapp3.1/ChessProjectFix.deps.json
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/bin/Debug/netcoreapp3.1/ChessProjectFix.runtimeconfig.json
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/bin/Debug/netcoreapp3.1/ChessProjectFix.runtimeconfig.dev.json
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/bin/Debug/netcoreapp3.1/ChessProjectFix.dll
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/bin/Debug/netcoreapp3.1/ChessProjectFix.pdb
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.csprojAssemblyReference.cache
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.AssemblyInfoInputs.cache
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.AssemblyInfo.cs
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.csproj.CoreCompileInputs.cache
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.dll
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.pdb
+/Users/yars/Projects/ChessProjectFix/ChessProjectFix/obj/Debug/netcoreapp3.1/ChessProjectFix.genruntimeconfig.cache
